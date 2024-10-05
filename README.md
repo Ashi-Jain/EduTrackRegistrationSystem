@@ -3,6 +3,8 @@
 ## Project Overview
 The EduTrack Registration System is a Java-based application that is designed to manage course registration, student records, professor assignments, and administrative tasks for a university setting. The system allows students to register for courses, professors to manage their courses, and administrators to oversee and manage the entire system. It is a command line interface and it utilises popular OOPs concepts.
 
+It introduces new features such as generic feedback handling, extended user role management via inheritance, and robust exception handling. These enhancements are implemented while maintaining the core functionality of the original system.
+
 ## Files Overview
 
 ### Main.java
